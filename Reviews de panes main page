@@ -9,5 +9,15 @@
 	<h1>Bienvenidos a reviews de panes</h1>
 	<p>En esta web analizamos y calificamos los distintos tipos de panes que la humanidad ha creado.</p>
 
+	<h2>Menú de panes</h2>
+	<ul>
+		<li>Pan Blanco</li>
+		<li>Pan Integral</li>
+		<li>Pan de Centeno</li>
+		<li>Pan de Masa Madre</li>
+		<li>Pan Multicereales</li>
+		<li>Baguette</li>
+	</ul>
+
 </body>
 </html>
