@@ -1,0 +1,13 @@
+body{
+	background-color: goldenrod;
+	font-family: arial;
+}
+h1{
+	text-align: center;
+}
+.puntuacion{
+	border: groove;
+	border-color: darkgoldenrod;
+	padding: 1%;
+	border-width: 6px;
+}
